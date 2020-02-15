@@ -1,0 +1,23 @@
+{
+  "name": "MERNG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faruqneo/MERNG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faruqneo/MERNG/issues"
+  },
+  "homepage": "https://github.com/faruqneo/MERNG#readme",
+  "dependencies": {
+    "graphql": "^14.6.0"
+  }
+}
